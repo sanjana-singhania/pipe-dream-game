@@ -14,3 +14,6 @@ after 5 seconds, the 'goo' starts flowing, and the player must continue to place
 once the goo is 'spilled', or reaches a dead end, the game ends
 
 the objective of this game is to earn the most amount of points in the time possible
+
+## partner:
+created in collaboration with [David Liu](https://github.com/daviliuu)
